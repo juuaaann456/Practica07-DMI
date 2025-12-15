@@ -1,7 +1,7 @@
 # Cinemapedia_220083
 
 <div align="center">
-  <img src="imagen2.jpg" alt="Logo Carrera" width="200"/>
+  <img src="Imagen1.jpeg" alt="Logo Carrera" width="200"/>
   
   ### Práctica 07: Implementación Completa de Búsqueda y Gestión de Contenido Multimedia
   
